@@ -1,6 +1,6 @@
 
 
-# Hi there!👋 I'm Vinup 
+# Hello there!👋 I'm Vinup 
 
 Welcome to my GitHub profile! 
 
