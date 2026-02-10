@@ -4,7 +4,7 @@
 ☁️ Google Cloud Certified | Data & GenAI Enthusiast  
 📍 Bangalore, India  
 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Associate%20Data%20Practitioner-blue?logo=googlecloud)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Associate%20Data%20Practitioner-blue?logo=googlecloud)](https://www.credly.com/badges/8638b3ac-f836-4730-8718-8fdfc1a31a1a/public_url)
 
 ---
 
