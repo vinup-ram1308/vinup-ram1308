@@ -50,7 +50,7 @@ I enjoy turning data into insights, exploring scalable systems on the cloud, and
 - Data & Analytics  
 - Generative AI and Machine Learning  
 - Cloud Computing  
-- Problem Solving & Algorithms  
+- Problem Solving   
 
 ---
 
