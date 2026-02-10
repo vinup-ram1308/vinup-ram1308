@@ -24,7 +24,7 @@ I enjoy turning data into insights, exploring scalable systems on the cloud, and
   - Data ingestion, transformation, and analysis
   - BigQuery and analytics workflows
   - Data quality, governance, and insights
-- 🔗 Credential: *(add verification link or PDF here)*
+- 🔗 Credential: [View Certificate](certificates/AssociateDataPractitioner20260210-32-5t2ux3.pdf)
 
 ---
 
