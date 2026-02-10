@@ -1,41 +1,67 @@
+# Hi there 👋 I'm Vinup Ram
 
+🎓 BSc in Computer Science, Mathematics & Statistics  
+☁️ Google Cloud Certified | Data & GenAI Enthusiast  
+📍 Bangalore, India  
 
-# Hello there!👋 I'm Vinup 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Associate%20Data%20Practitioner-blue?logo=googlecloud)
 
-Welcome to my GitHub profile! 
+---
 
-![duck_giphy](https://github.com/vinup-ram1308/vinup-ram1308/assets/157267994/01096122-cf34-4030-8e91-f731238aa00f)
+## 👨‍💻 About Me
 
-## 👨 About Me
+I’m a Computer Science undergraduate with a strong foundation in **data, statistics, and problem-solving**, currently focused on building skills in **data analytics, cloud platforms, and Generative AI**.
 
-I am a second year undergraduate student pursuing BSc in Computer Science, Mathematics, Statistics in Christ University, Bangalore. 
-Slowly getting myself into coding. Wish to create more projects and collaborate in the future.
+I enjoy turning data into insights, exploring scalable systems on the cloud, and continuously improving through hands-on learning and projects.
 
+---
 
-## 🌱 I'm currently learning 
+## 🏆 Certifications
 
-Currently learning python and java which is related to our coursework. While in the meantime, exploring and learning coding from [Codédex](https://www.codedex.io), the newest tool for learning how to code!
+### ☁️ Google Cloud – Associate Data Practitioner
+- Issued by **Google Cloud**
+- Core focus areas:
+  - Data ingestion, transformation, and analysis
+  - BigQuery and analytics workflows
+  - Data quality, governance, and insights
+- 🔗 Credential: *(add verification link or PDF here)*
 
+---
 
-## 👀 I'm interested in
+## 💻 Technical Skills
 
-I'm interested in learning new things, especially things related to coding. My objective is to learn and create some solid projects which can help me land good internships and jobs eventually!
+- **Languages:** Python, SQL, Java  
+- **Data & Analytics:** Pandas, NumPy, BigQuery  
+- **Cloud:** Google Cloud Platform (GCP)  
+- **Concepts:** Data Analytics, ETL, Statistics, ML Fundamentals  
 
+---
 
-## 😉 Fun Fact
+## 🚀 Current Focus
 
-I'm a trained singer and I play all kinds of sports (mainly football ⚽). Plus, I love solving sudoku.
+- Exploring **Generative AI applications** and data-driven systems  
+- Strengthening cloud-based analytics workflows on **Google Cloud**  
+- Building small but meaningful projects to apply concepts in practice  
 
-PS:- Check out my sudoku solver project :)
+---
 
-## 🤝 Connect with Me
+## 👀 Interests
 
-[![LinkedIn](https://readme-components.vercel.app/api?component=logo&fill=blue&logo=LinkedIn)](https://www.linkedin.com/in/vinup-ram-16b96128b/)
+- Data & Analytics  
+- Generative AI and Machine Learning  
+- Cloud Computing  
+- Problem Solving & Algorithms  
 
+---
 
-[![](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)](https://github.com/vinup-ram1308/readme-components)
+## 🎵 Fun Fact
 
-<!---
-vinup-ram1308/vinup-ram1308 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a trained singer 🎤, love playing sports (especially football ⚽), and enjoy solving Sudoku puzzles.  
+PS: Check out my **Sudoku Solver project** 😉
+
+---
+
+## 🤝 Connect With Me
+
+[![LinkedIn](https://readme-components.vercel.app/api?component=logo&fill=blue&logo=LinkedIn)](https://www.linkedin.com/in/vinup-ram-16b96128b/)  
+[![GitHub](https://readme-components.vercel.app/api?component=logo&fill=black&logo=github)](https://github.com/vinup-ram1308)
