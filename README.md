@@ -33,7 +33,7 @@ I enjoy turning data into insights, exploring scalable systems on the cloud, and
   - Designing and implementing Azure AI solutions
   - Natural language processing and computer vision on Azure
   - Azure OpenAI, Cognitive Services, and AI-powered applications
-- 🔗 Credential: [View Certificate](certificates/AI Azure Engineer - vinupramsa-2086_Microsoft Learn.pdf)
+- 🔗 Credential: [View Certificate](certificates/AI%20Azure%20Engineer%20-%20vinupramsa-2086%20%7C%20Microsoft%20Learn.pdf)
 
 ---
 
