@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vinup Ram
+# Hey there 👋 I'm Vinup Ram
 
 🎓 BSc in Computer Science, Mathematics & Statistics  
 ☁️ Google Cloud Certified | Azure AI Certified | Data & GenAI Enthusiast  
