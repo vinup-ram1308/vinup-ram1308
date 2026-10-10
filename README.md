@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science, Mathematics, and Statistics** undergraduate and a Risk Consulting Apprentice in Advisory at a Big 4 firm, with a strong foundation in data analysis, statistics, and problem-solving. I'm actively developing skills in data analytics, Google Cloud Platform, Microsoft Azure, and Generative AI, with the goal of transitioning into a data science role and building scalable, data-driven solutions.
+I'm a **Computer Science, Mathematics, and Statistics** undergraduate and a Specialist in Risk Consulting in Advisory at PwC India, with a strong foundation in data analysis, statistics, and problem-solving. I'm actively developing skills in data analytics, Google Cloud Platform, Microsoft Azure, and Generative AI, with the goal of transitioning into a data science role and building scalable, data-driven solutions.
 
 I enjoy turning data into insights, exploring scalable systems on the cloud, and continuously improving through hands-on learning and projects.
 
